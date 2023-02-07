@@ -1,0 +1,26 @@
+{
+  "name": "shah_hiral_rokubuild",
+  "version": "1.0.0",
+  "description": "Roku Build Class Files, Temps UMS with Express, User Mangement system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiralshah7/shah_hiral_rokuBuild.git"
+  },
+  "keywords": [],
+  "author": "hiral shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiralshah7/shah_hiral_rokuBuild/issues"
+  },
+  "homepage": "https://github.com/hiralshah7/shah_hiral_rokuBuild#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
